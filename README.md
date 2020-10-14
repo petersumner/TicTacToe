@@ -1,2 +1,2 @@
 # TicTacToe
-Play TicTacToe against an AI that never loses
+Play TicTacToe against an AI that doesn't lose
